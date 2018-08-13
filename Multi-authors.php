@@ -7,6 +7,9 @@
  * Author URI: https://github.com/magosb
  * License: MIT
  * 
+ * @package WordPress
+ * @author  Magdalena Korpela
+ * @version 1.0
  */
 defined( 'ABSPATH' ) or die( 'Access denied' );
 
