@@ -1,0 +1,6 @@
+{
+    "name": "simrishamn/mmulti-authors-plugin",
+    "description": "Simple multiple authors plugin",
+    "type": "wordpress-plugin",
+    "license": "MIT"
+}
